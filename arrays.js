@@ -15,3 +15,7 @@ function destructivelyAddElementToEndOfArray(Array, String) {
   chocolateBars.unshift(String);
   return chocolateBars;
 }
+function accessElementInArray(Array, Index) {
+  var 
+  return
+}
