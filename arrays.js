@@ -16,6 +16,6 @@ function destructivelyAddElementToEndOfArray(Array, String) {
   return chocolateBars;
 }
 function accessElementInArray(Array, Index) {
-  var x = Array[]
-  return x
+  var x = Array[Index];
+  return x;
 }
